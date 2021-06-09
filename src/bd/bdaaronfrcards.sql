@@ -1,6 +1,6 @@
 /*drop database if exists `aaroncards`;
 create database if not exists `aaroncards`;*/
-use 'sql10418207';
+use `sql10418207`;
 
 drop table if exists paquetecarta;
 create table paquetecarta(
